@@ -1,2 +1,2 @@
 # Code With Moe!
-I will be writing a blog about my coding journey!
+I blogging about my coding journey!
