@@ -1,6 +1,12 @@
 # Code With Moe!
 I blogging about my coding journey!
 
+## Code practicing tools
+
+- LeetCode
+- HackerRank
+- Code Signal: https://app.codesignal.com/pre-screen-practice
+
 ## elasticsearch-rails
 
 https://morizyun.github.io/blog/elasticsearch-rails-tutorial/index.html
